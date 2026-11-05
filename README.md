@@ -1,6 +1,6 @@
 # CME538 Assignment 6 — Linear Regression
 
-This repository contains the completed Assignment 6 Jupyter Notebook and its HTML export.
+This repository contains the Assignment 6 Jupyter Notebook and its HTML export.
 
 ## Files
 
